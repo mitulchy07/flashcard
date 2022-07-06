@@ -1,0 +1,47 @@
+body{
+    margin: 0;
+}
+
+.one-third-flash-card{
+    display: flex;
+    margin: 50px 150px;
+
+}
+
+.flash{
+    width: 33.3%;
+}
+
+.flash img{
+    width: 80%;
+    border-radius: 10px;
+}
+
+.city-name{
+    color: greenyellow;
+}
+
+.flash p{
+    text-align: justify;
+    padding-right: 80px;
+}
+
+.raised{
+    color: chocolate;
+}
+
+.see-more{
+    display: flex;
+    justify-content: center;
+}
+
+.see-more-button{
+    background-color: transparent;
+    border: 2px solid greenyellow;
+    border-radius: 5px;
+    text-decoration: none;
+    padding: 10px 20px;
+    color: greenyellow;
+    margin-bottom: 20px;
+
+}
